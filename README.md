@@ -4,7 +4,7 @@
 <Br>
 <h1>Sobre mim</h1>
 
-- 👨🏿‍🔬🔬: Entusiasta de Ciência de Dados  
+- 👨🏿‍🔬🔬 Entusiasta de Ciência de Dados  
 - 🎓: Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
 - 💻: Estagiário de Planejamento Estratégico -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
 - 🌱: Atualmente aprendendo algoritmos de Machine Learning
