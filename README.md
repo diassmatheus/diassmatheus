@@ -15,4 +15,4 @@
 <Br>
 <h1>Alguns dos meus projetos 📈</h1>
 <Br>
-- ⌛ Em breve
+- ⌛: Em breve
