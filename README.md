@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**diassmatheus/diassmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Olá, eu sou o Matheus Dias<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>Sobre mim</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏿‍🔬🔬: Entusiasta de Ciência de Dados  
+- 🎓: Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
+- 💻: Estagiário de Planejamento Estratégico -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
+- 🌱: Atualmente aprendendo algoritmos de Machine Learning
+- 💬: Pronomes: Ele/Dele
+<hr>
+<Br>
