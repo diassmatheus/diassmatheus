@@ -8,6 +8,7 @@
 - 🎓: Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
 - 💻: Estagiário de Planejamento Estratégico -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
 - 🌱: Atualmente aprendendo algoritmos de Machine Learning
+- 💼: LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧: E-mail - diassmatheus@outlook.com
 - 💬: Pronomes: Ele/Dele
 <hr>
