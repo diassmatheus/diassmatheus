@@ -13,7 +13,7 @@
 - 💬 Pronomes: Ele/Dele
 <hr>
 <Br>
-<h1>Alguns dos meus projetos </h1>
+<h1>Alguns dos meus projetos 🎨</h1>
 <Br>
-- ⌛ Em breve
+⌛ Em breve
 <Br>
