@@ -15,5 +15,12 @@
 <Br>
 <h1>Alguns dos meus projetos 🎨</h1>
 <Br>
-⌛ Em breve
-<Br>
+
+  <a href="https://github.com/diassmatheus/ClusterizacaoDadosOCDE">Clusterização de países por indicadores de crescimento verde da OCDE </a>
+  
+Descrição do projeto: Projeto realizado em conjunto com a produção de um artigo acadêmico para a disciplina de Mineração de Dados 
+  da <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>, sob a mentoria do professor doutor 
+  <a href= "http://lattes.cnpq.br/5500192844287607"> Bruno Samways dos Santos </a> utilizando os algoritmos de clusterização 
+  k-means e agrupamento hirárquico para agrupar países a partir dos indicadores de crescimento verde do dataset da OCDE de 2019.
+  
+ ***
