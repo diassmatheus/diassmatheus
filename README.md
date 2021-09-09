@@ -18,7 +18,7 @@
 
  🌿 <a href="https://github.com/diassmatheus/ClusterizacaoDadosOCDE">Clusterização de países por indicadores de crescimento verde da OCDE </a>
   
-Descrição do projeto: Projeto realizado entre junho e agosto de 2021 em conjunto com a produção de um artigo acadêmico para a disciplina de Mineração de Dados da Universidade Tecnológica Federal do Paraná, utilizando os algoritmos de clusterização k-means e agrupamento hirárquico para agrupar países a partir dos indicadores de crescimento verde do <a href= "https://www.oecd-ilibrary.org/environment/data/oecd-environment-statistics/green-growth-indicators_data-00665-en"> dataset da OCDE </a>, com corte transversal para 2019.
+Descrição do projeto: Projeto realizado entre junho e agosto de 2021 em conjunto com a produção de um artigo acadêmico para a disciplina de Mineração de Dados da Universidade Tecnológica Federal do Paraná, utilizando os algoritmos de clusterização k-means e agrupamento hirárquico para agrupar países a partir dos indicadores de crescimento verde do <a href= "https://www.oecd-ilibrary.org/environment/data/oecd-environment-statistics/green-growth-indicators_data-00665-en"> dataset Green growth indicators da OCDE </a>, com corte transversal para 2019.
   
  ***
  
