@@ -28,7 +28,6 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 - Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa. 
  <a href= "https://github.com/diassmatheus/AluraChallengeBI/tree/main/DashboardOperacionalDeLogistica"> [Mais informações] </a> 
  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTIwMDQzMGQtNDUwMC00Njc0LWI5M2MtZjU4YTU4MjEzYjA4IiwidCI6ImQ0NDEzYjc1LWUxZWYtNGViYi1hZGIzLWFlZThmZTBlZDJlNSJ9&pageName=ReportSectionefcfe0e64d15920c0688"> [Dashboard] </a>
- <Br>
 - Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 - Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
   
