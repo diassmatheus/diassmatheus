@@ -24,8 +24,8 @@ Descrição do projeto: Projeto realizado entre junho e agosto de 2021 em conjun
  
  🤿 <a href="https://github.com/diassmatheus/AluraChallengeBI"> Alura Challenges - Business Intelligence </a>
   
-Descrição do projeto: Projetos realizados durante a terceira edição do Alura Challenge, no mês de setembro de 2021. Durante as 4 semanas do desafio foram propostas as seguintes realizações:
-- Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
+Descrição do projeto: Dashboards realizados no Power BI durante a terceira edição do Alura Challenge, no mês de setembro de 2021. Durante as 4 semanas do desafio foram propostas as seguintes realizações:
+- Desenvolvimento de um <a href= "https://github.com/diassmatheus/AluraChallengeBI/tree/main/DashboardOperacionalDeLogistica"> in/dashboard operacional de logística </a> atendendo as necessidades da empresa.
 - Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.
 - Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
   
