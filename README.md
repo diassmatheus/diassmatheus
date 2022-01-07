@@ -6,7 +6,7 @@
 
 - 👨🏿‍🔬🔬 Entusiasta de Ciência de Dados  
 - 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
-- 💻 Estagiário de Planejamento Estratégico -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
+- 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
 - 🔎 Membro do Grupo de Pesquisa em Otimização e Mineração de Dados - GPOMD 
 - 🌱 Atualmente aprendendo algoritmos de Machine Learning
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
