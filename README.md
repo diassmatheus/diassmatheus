@@ -4,7 +4,7 @@
 <Br>
 <h1>Sobre mim</h1>
 
-- 👨🏿‍🔬🔬 Entusiasta de Ciência de Dados  
+- 👨🏿‍🔬🔬 Apaixonado por Dados  
 - 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
 - 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
 - 🔎 Membro do Grupo de Pesquisa em Otimização e Mineração de Dados - GPOMD 
