@@ -11,7 +11,6 @@
 - 🌱 Atualmente aprendendo algoritmos de Machine Learning
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧 E-mail - diassmatheus@outlook.com
-- 💬 Pronomes: Ele/Dele
 <hr>
 <Br>
 <h1>Alguns dos meus projetos</h1>
