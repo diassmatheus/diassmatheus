@@ -43,8 +43,9 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 <Br>
 <h1>Cursos Alura</h1>
 <Br>
-Notebooks desenvolvidos a partir dos cursos da Alura
- 
+# Notebooks desenvolvidos a partir dos cursos da Alura
+
+ DATA SCIENCE
 - <a href="https://github.com/diassmatheus/PythonPandas">Python Pandas - Tratando e Analisando Dados</a> 
 
 - <a href="https://github.com/diassmatheus/FuncoesPacotesePandas">Python para Data Science - Funções, Pacotes e Pandas</a>
