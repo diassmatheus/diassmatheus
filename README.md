@@ -47,6 +47,7 @@ Notebooks desenvolvidos a partir dos cursos da Alura
 
  
  * DATA SCIENCE
+   - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a> 
    - <a href="https://github.com/diassmatheus/IntroducaoSeriesTemporais">Data Science - Introdução a análise de series temporais</a> 
    - <a href="https://github.com/diassmatheus/PandasEntradasSaidas">Pandas - Formatos diferentes de entrada e saída</a> 
    - <a href="https://github.com/diassmatheus/PythonPandas">Python Pandas - Tratando e analisando dados</a> 
