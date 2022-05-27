@@ -41,7 +41,7 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
   
  ***
 <Br>
-<h1>Cursos</h1>
+<h1>Cursos Alura</h1>
 <Br>
 
 - <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados.</a>
