@@ -44,6 +44,6 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 <h1>Cursos</h1>
 <Br>
 
-- <a href="https://github.com/diassmatheus/IntroducaoeNumpy">Python para Data Science - Introdução à linguagem e Numpy</a>
+- <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados.</a>
  
 - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
