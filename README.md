@@ -59,3 +59,4 @@ Notebooks desenvolvidos a partir dos cursos da Alura
  
  
  * DATA VISUALIZATION
+   - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a> 
