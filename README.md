@@ -5,10 +5,10 @@
 <h1>Sobre mim</h1>
 
 - 👨🏿‍🔬🔬 Apaixonado por Dados  
+- 🔎 Membro do Grupo de Pesquisa em Otimização e Mineração de Dados - <a href= "http://dgp.cnpq.br/dgp/espelhogrupo/7109659684038039"> GPOMD </a> 
 - 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
 - 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
-- 🔎 Membro do Grupo de Pesquisa em Otimização e Mineração de Dados - <a href= "http://dgp.cnpq.br/dgp/espelhogrupo/7109659684038039"> GPOMD </a> 
-- 🌱 Atualmente aprendendo algoritmos de Machine Learning
+- 💼 GitHub Pages - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧 E-mail - diassmatheus@outlook.com
  
