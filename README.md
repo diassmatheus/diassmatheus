@@ -67,6 +67,8 @@ Notebooks desenvolvidos a partir dos cursos da Alura
    - <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados</a>
    - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
  
+ * ESTATÍSTICA COM PYTHON
+   - <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas">Estatística com Python - Frequências e Medidas</a> 
  
  * DATA VISUALIZATION
    - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a> 
