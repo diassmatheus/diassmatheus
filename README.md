@@ -69,6 +69,7 @@ Notebooks desenvolvidos a partir dos cursos da Alura
  
  * ESTATÍSTICA COM PYTHON
    - <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas">Estatística com Python - Frequências e Medidas</a> 
+   - <a href="https://github.com/diassmatheus/EstatisticaProbabilidadeAmostragem">Estatística com Python - Probabilidade e Amostragem</a> 
  
  * DATA VISUALIZATION
    - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a> 
