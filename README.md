@@ -60,7 +60,7 @@ Notebooks desenvolvidos a partir dos cursos da Alura
 * APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO
    - <a href="https://github.com/diassmatheus/AprendizadoNaoSupervisionadoTecnicasMetodos">Aprendizado não supervisionado - Primeiras técnicas e métodos</a> 
 
-* NLP - NATURAL LANGUAGE PROCESS
+* NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
    - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
 
 * WEB SCRAPING
