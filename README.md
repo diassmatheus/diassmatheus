@@ -57,22 +57,29 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 <Br>
 Notebooks desenvolvidos a partir dos cursos da Alura
 
- 
- * DATA SCIENCE
+* APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO
    - <a href="https://github.com/diassmatheus/AprendizadoNaoSupervisionadoTecnicasMetodos">Aprendizado não supervisionado - Primeiras técnicas e métodos</a> 
-   - <a href="https://github.com/diassmatheus/WebScrapingPython">Scraping com Python - Coleta de dados na web</a> 
-   - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a> 
+
+* NLP - NATURAL LANGUAGE PROCESS
+   - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
+
+* WEB SCRAPING
+   - <a href="https://github.com/diassmatheus/WebScrapingPython">Scraping com Python - Coleta de dados na web</a>  
+   
+ * TIME SERIES
    - <a href="https://github.com/diassmatheus/IntroducaoSeriesTemporais">Data Science - Introdução a análise de series temporais</a> 
-   - <a href="https://github.com/diassmatheus/PandasEntradasSaidas">Pandas - Formatos diferentes de entrada e saída</a> 
-   - <a href="https://github.com/diassmatheus/PythonPandas">Python Pandas - Tratando e analisando dados</a> 
-   - <a href="https://github.com/diassmatheus/FuncoesPacotesePandas">Python para Data Science - Funções, Pacotes e Pandas</a>
-   - <a href="https://github.com/diassmatheus/LinguagemeNumpy">Python para Data Science - Introdução à linguagem e Numpy</a>
-   - <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados</a>
-   - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
  
  * ESTATÍSTICA COM PYTHON
    - <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas">Estatística com Python - Frequências e Medidas</a> 
    - <a href="https://github.com/diassmatheus/EstatisticaProbabilidadeAmostragem">Estatística com Python - Probabilidade e Amostragem</a> 
  
  * DATA VISUALIZATION
-   - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a> 
+   - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a>
+  
+ * INTRODUÇÃO A DATA SCIENCE
+   - <a href="https://github.com/diassmatheus/PandasEntradasSaidas">Pandas - Formatos diferentes de entrada e saída</a> 
+   - <a href="https://github.com/diassmatheus/PythonPandas">Python Pandas - Tratando e analisando dados</a> 
+   - <a href="https://github.com/diassmatheus/FuncoesPacotesePandas">Python para Data Science - Funções, Pacotes e Pandas</a>
+   - <a href="https://github.com/diassmatheus/LinguagemeNumpy">Python para Data Science - Introdução à linguagem e Numpy</a>
+   - <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados</a>
+   - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
