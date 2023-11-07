@@ -63,15 +63,15 @@ Notebooks desenvolvidos a partir dos cursos da Alura
 * NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
    - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
 
-* WEB SCRAPING
-   - <a href="https://github.com/diassmatheus/WebScrapingPython">Scraping com Python - Coleta de dados na web</a>  
+* ESTATÍSTICA COM PYTHON
+   - <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas">Estatística com Python - Frequências e Medidas</a> 
+   - <a href="https://github.com/diassmatheus/EstatisticaProbabilidadeAmostragem">Estatística com Python - Probabilidade e Amostragem</a>
    
  * TIME SERIES
    - <a href="https://github.com/diassmatheus/IntroducaoSeriesTemporais">Data Science - Introdução a análise de series temporais</a> 
- 
- * ESTATÍSTICA COM PYTHON
-   - <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas">Estatística com Python - Frequências e Medidas</a> 
-   - <a href="https://github.com/diassmatheus/EstatisticaProbabilidadeAmostragem">Estatística com Python - Probabilidade e Amostragem</a> 
+  
+ * WEB SCRAPING
+   - <a href="https://github.com/diassmatheus/WebScrapingPython">Scraping com Python - Coleta de dados na web</a>  
  
  * DATA VISUALIZATION
    - <a href="https://github.com/diassmatheus/ExplorandoSeaborn">Data Visualization - Explorando com Seaborn</a>
