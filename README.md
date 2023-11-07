@@ -53,11 +53,10 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
   
  ***
 <Br>
-<h1>Cursos Alura</h1>
+<h1>Cursos</h1>
 <Br>
-Notebooks desenvolvidos a partir dos cursos da Alura
 
-* APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO
+* APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO (ASSOCIAÇÃO, CLUSTERIZAÇÃO E REDUÇÃO DE DIMENSIONALIDADE)
    - <a href="https://github.com/diassmatheus/AprendizadoNaoSupervisionadoTecnicasMetodos">Aprendizado não supervisionado - Primeiras técnicas e métodos</a> 
 
 * NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
