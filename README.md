@@ -56,9 +56,12 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 <h1>Cursos</h1>
 <Br>
 
-* APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO (ASSOCIAÇÃO, CLUSTERIZAÇÃO E REDUÇÃO DE DIMENSIONALIDADE)
+* APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO
    - <a href="https://github.com/diassmatheus/AprendizadoNaoSupervisionadoTecnicasMetodos">Aprendizado não supervisionado - Primeiras técnicas e métodos</a> 
 
+* CLUSTERIZAÇÃO
+   - <a href="link">Clustering - Extraindo padrões de dados</a> [PREENCHER]
+  
 * NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
    - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
 
