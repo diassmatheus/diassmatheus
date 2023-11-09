@@ -52,9 +52,6 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 
   
  ***
-<Br>
-<h1>Cursos</h1>
-<Br>
 
 * APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO
    - <a href="https://github.com/diassmatheus/AprendizadoNaoSupervisionadoTecnicasMetodos">Aprendizado não supervisionado - Primeiras técnicas e métodos</a> 
