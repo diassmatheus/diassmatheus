@@ -68,7 +68,8 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="https://github.com/diassmatheus/EstatisticaProbabilidadeAmostragem">Estatística com Python - Probabilidade e Amostragem</a>
    
  * TIME SERIES
-   - <a href="https://github.com/diassmatheus/IntroducaoSeriesTemporais">Data Science - Introdução a análise de series temporais</a> 
+   - <a href="https://github.com/diassmatheus/AnaliseSerieTemporalCovid19">Análise de série temporal - COVID-19</a>
+   - <a href="https://github.com/diassmatheus/IntroducaoSeriesTemporais">Data Science - Introdução a análise de series temporais</a>
   
  * WEB SCRAPING
    - <a href="https://github.com/diassmatheus/WebScrapingPython">Scraping com Python - Coleta de dados na web</a>  
