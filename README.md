@@ -59,6 +59,9 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 * CLUSTERIZAÇÃO
    - <a href="https://github.com/diassmatheus/ClusterAnalysis/">Clustering - Extraindo padrões de dados</a>
    - <a href="https://github.com/diassmatheus/ClusteringAplicadoRecomendandoMusicasKMeans">Clustering aplicado - Recomendando músicas com K-Means</a>
+
+* DETECÇÃO DE ANOMALIAS
+   - <a href="https://github.com/diassmatheus/ModelosPreditivosDeteccaoFraudeEcommerce/">Modelos preditivos em dados - Detecção de fraude</a>
   
 * NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
    - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
