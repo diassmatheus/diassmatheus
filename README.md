@@ -94,5 +94,5 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="link.do.repositorio">Organizador de arquivos por extensão</a> [PENDENTE]
    - <a href="link.do.repositorio">Software simples de gestão para locadora de carros</a> [PENDENTE]
    - <a href="link.do.repositorio">Simulando o “caos” em academias</a> [PENDENTE]
-   - <a href="link.do.repositorio">Calculadora simples</a> [PENDENTE]
+   - <a href="https://github.com/diassmatheus/CalculadoraSimplesPython">Calculadora simples</a>
    
