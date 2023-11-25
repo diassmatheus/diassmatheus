@@ -61,7 +61,7 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="https://github.com/diassmatheus/ClusteringAplicadoRecomendandoMusicasKMeans">Clustering aplicado - Recomendando músicas com K-Means</a>
 
 * DETECÇÃO DE ANOMALIAS
-   - <a href="https://github.com/diassmatheus/ModelosPreditivosDeteccaoFraudeEcommerce/">Modelos preditivos em dados - Detecção de fraude</a>
+   - <a href="https://github.com/diassmatheus/ModelosPreditivosDeteccaoFraudeEcommerce/">Modelos preditivos em dados - Detecção de fraude</a> [PENDENTE]
   
 * NLP - PROCESSAMENTO DE LINGUAGEM NATURAL
    - <a href="https://github.com/diassmatheus/NLPCorretorOrtografico">Corretor Ortográfico em Python - Aplicando técnicas de NLP</a>
@@ -89,10 +89,10 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
 
 * PROGRAMAÇÃO PYTHON
-   - <a href="link.do.repositorio">Jogo da velha</a>
-   - <a href="link.do.repositorio">Jogo jokenpô</a>
-   - <a href="link.do.repositorio">Organizador de arquivos por extensão</a>
-   - <a href="link.do.repositorio">Software simples de gestão para locadora de carros</a>
-   - <a href="link.do.repositorio">Simulando o “caos” em academias</a>
-   - <a href="link.do.repositorio">Calculadora simples</a>
+   - <a href="link.do.repositorio">Jogo da velha</a> [PENDENTE]
+   - <a href="link.do.repositorio">Jogo jokenpô</a> [PENDENTE]
+   - <a href="link.do.repositorio">Organizador de arquivos por extensão</a> [PENDENTE]
+   - <a href="link.do.repositorio">Software simples de gestão para locadora de carros</a> [PENDENTE]
+   - <a href="link.do.repositorio">Simulando o “caos” em academias</a> [PENDENTE]
+   - <a href="link.do.repositorio">Calculadora simples</a> [PENDENTE]
    
