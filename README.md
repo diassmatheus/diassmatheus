@@ -93,6 +93,6 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="https://github.com/diassmatheus/Jokenpo/">Jogo jokenpô</a>
    - <a href="https://github.com/diassmatheus/LocadoraCarros">Software simples de gestão para locadora de carros</a>
    - <a href="https://github.com/diassmatheus/SimulacaoAcademias">Simulação estocástica: Simulando o “caos” em academias</a>
-   - <a href="https://github.com/diassmatheus/OrganizadorArquivos">Organizador de arquivos por extensão</a> [PENDENTE]
+   - <a href="https://github.com/diassmatheus/OrganizadorArquivos">Organizador de arquivos por extensão</a>
    - <a href="https://github.com/diassmatheus/CalculadoraSimplesPython">Calculadora simples</a>
    
