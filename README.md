@@ -36,7 +36,7 @@ Descrição do projeto: Projeto realizado entre junho e agosto de 2021 em conjun
   
  ***
 
-🚚 <a href="https://github.com/diassmatheus/PesquisaOperacionalVRP">Hill-Climbing e o Problema de Roteirização de Veículos com Frota Heterogênea </a>
+🚚 <a href="https://github.com/diassmatheus/PesquisaOperacionalVRP">Pesquisa Operacional - Hill-Climbing e o Problema de Roteirização de Veículos com Frota Heterogênea </a>
   
 Descrição do projeto: Solução proposta para o problema de roteirização de veículos (VRP) e sua relevância para redução de custos operacionais em sistemas de distribuição. O VRP é um desafio de otimização que busca encontrar rotas eficientes para maximizar a utilização dos recursos disponíveis e melhoria na eficiência logística, o estudo foca no VRP com frotas heterogêneas e restrição de recursos (HFVRP), onde o objetivo é reduzir os custos fixos e variáveis de roteamento. Diversos métodos, como heurísticas e meta-heurísticas, podem ser aplicados para resolver o HFVRP, neste caso foi utilizado o hill-climbing. Essa abordagem envolve realizar modificações incrementais para aprimorar continuamente a solução.
   
