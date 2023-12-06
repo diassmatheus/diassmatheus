@@ -58,6 +58,7 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 
 * CLUSTERIZAÇÃO
    - <a href="https://github.com/diassmatheus/ClusterAnalysis/">Clustering - Extraindo padrões de dados</a>
+   - <a href="https://github.com/diassmatheus/ClusteringSegmentacaoClientes/">Clustering - Segmentação de Clientes</a>
    - <a href="https://github.com/diassmatheus/ClusteringAplicadoRecomendandoMusicasKMeans">Clustering aplicado - Recomendando músicas com K-Means</a>
 
 * DETECÇÃO DE ANOMALIAS
