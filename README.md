@@ -35,6 +35,12 @@ Then i save result to [assets/github.gif](assets/github.gif)
 Descrição do projeto: Projeto realizado entre junho e agosto de 2021 em conjunto com a produção de um artigo acadêmico para a disciplina de Mineração de Dados da Universidade Tecnológica Federal do Paraná, utilizando os algoritmos de clusterização k-means e agrupamento hirárquico para agrupar países a partir dos indicadores de crescimento verde do <a href= "https://www.oecd-ilibrary.org/environment/data/oecd-environment-statistics/green-growth-indicators_data-00665-en"> dataset Green growth indicators da OCDE </a>, com corte transversal para 2019.
   
  ***
+
+🚚 <a href="https://github.com/diassmatheus/PesquisaOperacionalVRP">Hill-Climbing e o Problema de Roteirização de Veículos com Frota Heterogênea </a>
+  
+Descrição do projeto: Solução proposta para o problema de roteirização de veículos (VRP) e sua relevância para redução de custos operacionais em sistemas de distribuição. O VRP é um desafio de otimização que busca encontrar rotas eficientes para maximizar a utilização dos recursos disponíveis e melhoria na eficiência logística, o estudo foca no VRP com frotas heterogêneas e restrição de recursos (HFVRP), onde o objetivo é reduzir os custos fixos e variáveis de roteamento. Diversos métodos, como heurísticas e meta-heurísticas, podem ser aplicados para resolver o HFVRP, neste caso foi utilizado o hill-climbing. Essa abordagem envolve realizar modificações incrementais para aprimorar continuamente a solução.
+  
+ ***
  
  🤿 <a href="https://github.com/diassmatheus/AluraChallengeBI"> Alura Challenges - Business Intelligence </a>
   
