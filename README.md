@@ -14,12 +14,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <Br>
 <h1>Sobre mim</h1>
 
-- 🔎 Membro do Grupo de Pesquisa em Otimização e Mineração de Dados - <a href= "http://dgp.cnpq.br/dgp/espelhogrupo/7109659684038039"> GPOMD </a> 
-- 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
-- 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
-- 🌐 GitHub Pages - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
+- 🌐 Portfolio - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧 E-mail - diassmatheus@outlook.com
+- 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
+- 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
  
 <hr>
 <Br>
