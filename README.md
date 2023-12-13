@@ -17,8 +17,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 🌐 Portfolio - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧 E-mail - diassmatheus@outlook.com
-- 💻 Analista de Qualidade e Estratégia -  <a href="https://tech.telefonica.com/">Telefónica Tech Cybersecurity</a>
-- 🎓 Graduando em Engenharia de Produção - <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>
  
 <hr>
 <Br>
