@@ -88,6 +88,9 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
    - <a href="https://github.com/diassmatheus/IntroducaoaDataScience">Data Science Primeiros Passos - Análise e Visualização de Dados</a>
    - <a href="https://github.com/diassmatheus/PrimeirosPassos">Python para Data Science - Primeiros Passos</a>
 
+* OTIMIZAÇÃO E PESQUISA OPERACIONAL COM PYTHON
+   - <a href="https://github.com/diassmatheus/PesquisaOperacionalBasesMetodosOtimizacao">Pesquisa operacional - Entendendo as bases dos métodos de otimização</a>
+
 * PROGRAMAÇÃO PYTHON
    - <a href="https://github.com/diassmatheus/JogoDaVelha/">Jogo da velha</a>
    - <a href="https://github.com/diassmatheus/Jokenpo/">Jogo jokenpô</a>
