@@ -90,6 +90,7 @@ Descrição do projeto: Dashboards realizados no Power BI durante a terceira edi
 
 * OTIMIZAÇÃO E PESQUISA OPERACIONAL COM PYTHON
    - <a href="https://github.com/diassmatheus/PesquisaOperacionalBasesMetodosOtimizacao">Pesquisa operacional - Entendendo as bases dos métodos de otimização</a>
+   - <a href="https://github.com/diassmatheus/PesquisaOperacionalProgramacaoLinear">Otimização - Implementando a programação linear</a>
 
 * PROGRAMAÇÃO PYTHON
    - <a href="https://github.com/diassmatheus/JogoDaVelha/">Jogo da velha</a>
