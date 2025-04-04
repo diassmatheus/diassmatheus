@@ -28,12 +28,16 @@ Then i save result to [assets/github.gif](assets/github.gif)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
+<hr>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoft-sql-server)
+<hr>
 ![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+<hr>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+<hr>
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-05122A?style=flat&logo=google)
 
