@@ -19,26 +19,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📧 E-mail - diassmatheus@outlook.com
  
 <hr>
-
-## 🛠️ Tecnologias & Ferramentas  
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
-
-<Br>
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoft-sql-server)
-![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-
-
-
-<hr>
 <Br>
 <h1>Alguns dos meus projetos</h1>
 <Br>
