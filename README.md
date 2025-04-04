@@ -12,7 +12,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 <Br>
-<h1>Sobre mim</h1>
 
 - 🌐 Portfolio - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
@@ -20,7 +19,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
  
 <hr>
 <Br>
-<h1>Alguns dos meus projetos</h1>
+<h1>Alguns dos meus projetos e estudos</h1>
 <Br>
 
  🌿 <a href="https://github.com/diassmatheus/ClusterizacaoDadosOCDE">Clusterização de países por indicadores de crescimento verde da OCDE </a>
