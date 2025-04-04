@@ -11,14 +11,12 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-<Br>
 
 - 🌐 Portfolio - <a href= "https://diassmatheus.github.io/"> diassmatheus.github.io </a> 
 - 💼 LinkedIn - <a href= "https://www.linkedin.com/in/diassmatheus/"> in/diassmatheus </a>
 - 📧 E-mail - diassmatheus@outlook.com
  
 <hr>
-<Br>
 <h1>Alguns dos meus projetos e estudos</h1>
 <Br>
 
