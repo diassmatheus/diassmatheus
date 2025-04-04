@@ -33,21 +33,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoft-sql-server)
-
-<Br>
-
 ![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
 
-<Br>
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-<Br>
-
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-05122A?style=flat&logo=google)
 
 
 <hr>
